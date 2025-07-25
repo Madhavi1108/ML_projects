@@ -2,9 +2,6 @@
 
 A Machine Learning and NLP-based web app to classify news as **Real** or **Fake** using four different classifiers. Built with **Scikit-learn**, **Streamlit**, and trained on a labeled dataset of news articles.
 
-![Fake News Detector UI](https://img.shields.io/badge/Streamlit-App-success?logo=streamlit)
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-
 ---
 
 ### 🚀 Features
@@ -95,7 +92,7 @@ Random Forest: Real News
 * `vectorizer.pkl`: TF-IDF vectorizer used for text transformation
 * `Fake_News_Detection.ipynb`: Notebook used to build and train the models
 
-###🤝 Contributions
+### 🤝 Contributions
 **Contributions, suggestions, and improvements are welcome!**
 If you find a bug or have an idea to enhance the project, feel free to open an issue or submit a pull request. Let's make this better together!
 
